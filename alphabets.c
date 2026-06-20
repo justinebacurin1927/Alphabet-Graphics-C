@@ -15,8 +15,6 @@ int main()
     cleardevice();
     setcolor(WHITE);
 
-
-
     // capital A
     setfillstyle (10, 2);
     floodfill (2, 12, BLACK);
